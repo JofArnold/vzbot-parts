@@ -4,6 +4,8 @@
 
 Depending on your printer, the stock design is hard to assemble to the nozzle with any level of rigidity. This design contains an integrated thumbwheel that allows the user to fasten into the nozzle while heeping the desired orientation.
 
+<img src="./assembly.png" width="300">
+
 ## Parts / Assembly
 
 * The 4 STL files, printed
