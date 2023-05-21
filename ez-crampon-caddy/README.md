@@ -12,7 +12,10 @@ Depending on your printer, the stock design is hard to assemble to the nozzle wi
 * 4x M3x15 screws. Low profile best
 * Crampon board
 * The nozzle screw that comes with the Crampon board
+* Maybe a washer
 
 It's intended for the top part to be tapped with M3 threads but probably screwing the M3 directly in will work fine. Not tested.
 
 Warning: it's intended for all the parts to be a very close fit to stop them rattling around and affecting the results. In all likelihood on first assembly the thumbwheel will bind. Sand 0.05-0.1mm off then thumbwheel and the key until it's fairly free but not rattling.
+
+In the case of the Goliath nozzle, the sock gets slightly in the way of the assembly and stocks it being able to be fully screwed in. You can either use a washer to space it our or print your own.
